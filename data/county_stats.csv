@@ -1,0 +1,34 @@
+﻿County,PopEst,TestSites,Area,Seat,Long,Lat,ComSpread,sandians
+Bernalillo,670968,5,1166,Albuquerque,-106.6504,35.0844,TRUE,10806
+Catron,3733,0,6928,Reserve,-108.7578,33.7131,,
+Chaves,65890,0,6071,Roswell,-104.523,33.3943,,
+Cibola,27658,1,4540,Grants,-107.8514,35.1473,,
+Colfax,13640,3,3757,Raton,-104.4392,36.9034,,
+Curry,49649,0,1406,Clovis,-103.2052,34.4048,,
+De Baca,1945,0,2325,Fort Sumner,-104.2455,34.4717,,
+Dona Ana,213598,1,3807,Las Cruces,-106.7637,32.3199,TRUE,13
+Eddy,54152,0,4182,Carlsbad,-104.2288,32.4207,,4
+Grant,29380,1,3966,Silver City,-108.2803,32.7701,,
+Guadalupe,4619,1,3031,Santa Rosa,-104.6825,34.9387,,
+Harding,740,0,2126,Mosquero,-103.9566,35.777,,
+Hidalgo,4861,0,3446,Lordsburg,-108.7087,32.3504,,
+Lea,65423,1,4393,Lovington,-103.3486,32.944,,
+Lincoln,20454,1,4831,Carrizozo,-105.8772,33.6417,,
+Los Alamos,18222,0,109,Los Alamos,-106.3031,35.88,,23
+Luna,25281,0,2965,Deming,-107.7586,32.2687,,
+McKinley,73664,1,5449,Gallup,-108.7426,35.5281,TRUE,
+Mora,4773,0,1931,Mora,-105.33,35.9742,,
+Otero,65703,1,6627,Alamoogordo,-105.9603,32.8995,TRUE,
+Quay,9026,0,2855,Tucumcari,-103.725,35.1717,,
+Rio Arriba,40446,1,5858,Tierra Amarilla,-106.5519,36.6987,,5
+Roosevelt,20446,0,2449,Portales,-103.3344,34.1862,,
+Sandoval,134259,0,3710,Bernalillo,-106.5511,35.3,TRUE,919
+San Juan,128200,1,5514,Aztec,-107.9928,36.8222,TRUE,
+San Miguel,29301,0,4717,Las Vegas,-105.2228,35.5942,,
+Santa Fe,145648,2,1909,Santa Fe,-105.9378,35.687,TRUE,371
+Sierra,11943,0,4180,Truth or Consequences,-107.2528,33.1284,,
+Socorro,17873,1,6647,Socorro,-106.8914,34.0584,,20
+Taos,32917,1,2203,Taos,-105.5731,36.4072,,
+Torrance,16345,0,3345,Estancia,-106.0559,34.7584,,27
+Union,4433,1,3830,Clayton,-103.1841,36.4517,,
+Valencia,77070,0,1068,Los Lunas,-106.7334,34.8062,,535

@@ -1,0 +1,25 @@
+\usepackage{amsmath}
+\newcommand{\Normal} {{\mathcal N}}
+\newcommand{\bbeta}  {\mathbf{\beta}}
+\newcommand{\kr}     {k_{r}}
+\newcommand{\thetar} {\theta_{r}}
+\newcommand{\tzr}    {t_{0,r}}
+\newcommand{\Nr}     {N_{r}}
+\newcommand{\Nir}    {N_{i, r}}
+\newcommand{\Nimr}  {N_{i-1, r}}
+\newcommand{\nir}    {n_{i,r}}
+\newcommand{\Nreg}   {R}
+\newcommand{\lphi}   {\lambda_{\phi}}
+\newcommand{\tphi}   {\tau_{\phi}}
+\newcommand{\gr}     {\gamma_r}
+\newcommand{\bgamma} {\mathbf{\gamma}}
+\newcommand{\bsigma} {\mathbf{\sigma}}
+\newcommand{\bpsi} {\mathbf{\psi}}
+\newcommand{\bp} {\mathbf{p}}
+\newcommand{\Mcal} {\mathcal{M}}
+\newcommand{\bveps} {\mathbf{\varepsilon}}
+\newcommand{\dcor} {$d_{\textrm{cor}}$}
+\newcommand{\param} {\Theta}
+\newcommand{\Data}  {\mathcal{D}}
+\newcommand{\Ypred} {\boldsymbol{Y}}
+\newcommand{\paramDis} {\mathbf{m}}
